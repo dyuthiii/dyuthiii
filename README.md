@@ -1,10 +1,13 @@
 # Hi, I'm Dyuthi Dinesh!
 ## About Me
 I'm a recent MA graduate from Quantitative Methods in Social Sciences at Columbia University, with a strong background in Psychology and Quantitative Research. My research interests span social impact, psychology and mental health, social impact, energy and climate, neuroscience, emotion and behavior, cognition, social media, and gaming.
+Explore my Portfolio [here](https://github.com/dyuthiii/Portfolio-Guide.git)!
 
 ## Connect:
 * [Website] (https://dyuthiii.github.io/).
 * [GitHub] (https://github.com/dyuthiii)/.
 * [LinkedIn] (https://www.linkedin.com/in/dyuthi-dinesh-3991bb127/). \
+* ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 Feel free to explore my repositories and reach out for collaborations or a chat about research, psychology, or animal welfare!
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
