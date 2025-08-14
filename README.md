@@ -4,7 +4,7 @@ I'm a recent MA graduate from Quantitative Methods in Social Sciences at Columbi
 Explore my **Portfolio** [here](https://github.com/dyuthiii/Portfolio-Guide.git)!
 
 ## Connect:
-[![Static Badge](https://img.shields.io/badge/Dyuthi's%20Website?color=violet)](https://dyuthiii.github.io/)
+![Static Badge](https://img.shields.io/badge/Dyuthi's%20Website?style=flat&logoColor=violet&link=https%3A%2F%2Fdyuthiii.github.io%2F)
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyuthi-dinesh-3991bb127/)
   
 Feel free to explore my repositories and reach out for collaborations or a chat about research, psychology, or animal welfare!
